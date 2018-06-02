@@ -1,0 +1,6 @@
+[submodule "Engine/Code"]
+	path = Engine/Code
+	url = git@github.com:tankiJong/morph-engine.git
+[submodule "Projects/dx12test"]
+	path = Projects/dx12test
+	url = git@github.com:tankiJong/morph-dx12-test.git
