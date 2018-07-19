@@ -1,7 +1,7 @@
 [submodule "Engine/Code"]
 	path = Engine/Code
-	url = git@github.com:tankiJong/morph-engine.git
+	url = https://github.com/tankiJong/morph-engine.git
 	branch = dx12
 [submodule "Projects/dx12test"]
 	path = Projects/dx12test
-	url = git@github.com:tankiJong/morph-dx12-test.git
+	url = https://github.com/tankiJong/morph-dx12-test.git
