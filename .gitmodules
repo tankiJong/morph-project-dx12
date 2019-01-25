@@ -8,3 +8,6 @@
 [submodule "Projects/HybridRenderer"]
 	path = Projects/HybridRenderer
 	url = https://github.com/tankiJong/morph-hybrid-renderer.git
+[submodule "Projects/TanKraft"]
+	path = Projects/TanKraft
+	url = https://github.com/tankiJong/TanKraft.git
